@@ -128,7 +128,15 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Context\ChiTietDonHang.cs" />
+    <Compile Include="Context\DonHang.cs" />
+    <Compile Include="Context\LoaiSanPham.cs" />
+    <Compile Include="Context\LoaiTaiKhoan.cs" />
     <Compile Include="Context\MyData.cs" />
+    <Compile Include="Context\NhaCungCap.cs" />
+    <Compile Include="Context\SanPham.cs" />
+    <Compile Include="Context\sysdiagram.cs" />
+    <Compile Include="Context\TaiKhoan.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
