@@ -166,3 +166,8 @@ C:\Users\OriginSin\Desktop\PTH\webbanhang\websitebanhang\bin\EPPlus.System.Drawi
 C:\Users\OriginSin\Desktop\PTH\webbanhang\websitebanhang\bin\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\OriginSin\Desktop\PTH\webbanhang\websitebanhang\bin\EPPlus.xml
 C:\Users\OriginSin\Desktop\PTH\webbanhang\websitebanhang\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DELL 7490\Desktop\New folder (4)\webbanhang\websitebanhang\obj\Debug\websitebanhang.csproj.AssemblyReference.cache
+C:\Users\DELL 7490\Desktop\New folder (4)\webbanhang\websitebanhang\obj\Debug\websitebanhang.csproj.ResolveComReference.cache
+C:\Users\DELL 7490\Desktop\New folder (4)\webbanhang\websitebanhang\obj\Debug\websitebanhang.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7490\Desktop\New folder (4)\webbanhang\websitebanhang\obj\Debug\websitebanhang.dll
+C:\Users\DELL 7490\Desktop\New folder (4)\webbanhang\websitebanhang\obj\Debug\websitebanhang.pdb
